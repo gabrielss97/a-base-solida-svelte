@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     backgroundImage: {
       'bg-binary': "url('./src/assets/bg-binary.jpg')",
-      'bg-binary-2': "url('./src/assets/bg-binary-2.jpg')",
     },
     screens: {
       'tablet': '640px',

@@ -1,0 +1,5 @@
+<header class="flex flex-col gap-5 items-center">
+    <iframe class="w-full h-56" src="https://www.youtube.com/embed/ewVtyCzjrIg" title="Como criar um simples projeto para portfólio! | Gabriel Salvador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1 class="font-bold w-full text-4xl uppercase text-left">Bootcamp <br> <span class=" rounded bg-cyellow text-cblack px-2">A Base Sólida</span> </h1>
+    <p class="text-xl">Pare de travar na hora de começar seu <b>proprio projeto do zero</b>, torne-se um programador que não só copia codigo mas que entenda de verdade a linguagem <span class="text-cyellow  font-bold">JavaScript</span>, obtenha uma <b>base sólida</b> para que você tenha a mentalidade programadora e consiga enfrentar qualquer desafio na área Web.</p>
+</header>
