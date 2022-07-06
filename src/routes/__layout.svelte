@@ -7,6 +7,7 @@
 
 <svelte:head>
 	<title>A Base Sólida</title>
+	<script defer src="https://kit.fontawesome.com/6fffeb3d5e.js" crossorigin="anonymous"></script>
 </svelte:head>
 
 <div class="py-8 px-2 relative flex flex-col gap-10 desktop:gap-20">
