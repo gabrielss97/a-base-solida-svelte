@@ -5,13 +5,13 @@
 @tailwind utilities;
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
 }
 
 body {
-    background-color: #202125;
-    color: #F9FAF9;
+	background-color: #202125;
+	color: #f9faf9;
 }
