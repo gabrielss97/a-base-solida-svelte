@@ -5,6 +5,7 @@ import Feedbacks from '../components/Feedbacks.svelte';
 	import Header from '../components/Header.svelte';
 	import Nav from '../components/Nav.svelte';
 	import favicon from '../assets/favicon.ico'
+import Tecs from '../components/Tecs.svelte';
 </script>
 
 <svelte:head>
@@ -20,5 +21,6 @@ import Feedbacks from '../components/Feedbacks.svelte';
 	<Nav />
 	<Header />
 	<Benefits />
+	<Tecs/>
 	<Feedbacks/>
 </div>
