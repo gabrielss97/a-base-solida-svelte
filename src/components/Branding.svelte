@@ -1,7 +1,11 @@
 <script>
 	import gitLogo from '../assets/github-logo.png';
 	import linkedinLogo from '../assets/linkedin-logo.png';
-import MainButton from './MainButton.svelte';
+
+export let buttonText = 'INSCREVA-SE AGORA MESMO';
+	export let borderColor = 'border-cgolden';
+	export let href =
+		'https://api.whatsapp.com/send?phone=5521999057567&text=Ol%C3%A1%20Gabriel%2C%20quero%20saber%20mais%20sobre%20o%20Bootcamp%20Frontbase';
 </script>
 
 <div class="flex flex-col items-center" id="job">
@@ -30,7 +34,10 @@ import MainButton from './MainButton.svelte';
 			</p>
 		</div>
 	</div>
-    <MainButton borderColor={'border-cgolden'}/>
+    <button
+		class=" hover:text-cblack hover:bg-cgolden tablet:block rounded-2xl py-2 px-5 text-cwhite {borderColor} border-2 font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
+		><a target="_blank" {href}>{buttonText}</a>
+	</button>
 </div>
 
 <style>

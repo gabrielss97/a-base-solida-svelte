@@ -2,7 +2,7 @@
 	export let buttonText = 'FEEDBACKS SUPERPROF';
 	export let borderColor = 'border-cpink';
 	export let href =
-		'https://api.whatsapp.com/send?phone=5521999057567&text=Ol%C3%A1%20Gabriel%2C%20quero%20saber%20mais%20sobre%20o%20Bootcamp%20Frontbase';
+		'https://www.superprof.com.br/html-css-javascript-vou-dar-base-solida-voce-precisa-para-avancar-carreira-desenvolvedor-engenheiro-software.html';
 </script>
 
 <div class="flex flex-col items-center w-full desktop:px-40" id="feedbacks">
@@ -12,7 +12,7 @@
 		Feedbacks
 	</h1>
 	<p
-		class="leading-10 text-2xl mb-4 tablet:leading-10 tablet:px-16 laptop:px-20 laptop:mb-8 laptop:text-center laptop:leading-10 desktop:px-24 desktop:mb-4 desktop:leading-10"
+		class="leading-10 text-2xl mb-4 tablet:leading-10 tablet:px-16 laptop:px-20 laptop:mb-8 laptop:text-center laptop:leading-10 desktop:px-32 desktop:mb-4 desktop:leading-10"
 	>
 		Bem essa é uma seção <b>polêmica</b>, sabemos que muitos sites e cursos por aí tem feedbacks
 		genéricos e até muitas vezes falsos, então dessa vez eu vou fazer diferente. Você vai clicar no
