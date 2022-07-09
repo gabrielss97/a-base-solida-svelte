@@ -20,7 +20,8 @@ module.exports = {
       'cwhite':'#F9FAF9',
       'cyellow':'#EFD81D',
       'cgolden':'#DFBA63',
-      'cgray': '#b1afb9'
+      'cgray': '#b1afb9',
+      'cpink':'#FF9292'
     },
     extend: {},
   },

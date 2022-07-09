@@ -11,6 +11,18 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+html  {
+	scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+:target {
+	scroll-margin-top: .8rem;
+}
+
 body {
 	background-color: #202125;
 	color: #f9faf9;
