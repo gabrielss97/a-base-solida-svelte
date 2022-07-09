@@ -7,7 +7,7 @@
 
 <div class="flex flex-col items-center w-full desktop:px-40" id="feedbacks">
 	<h1
-		class="text-4xl font-bold uppercase bg-cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 laptop:text-4xl desktop:text-6xl desktop:mb-20"
+		class="text-4xl font-bold uppercase bg-cpink text-cblack mb-4 px-2 rounded laptop:mb-8 laptop:text-4xl desktop:text-6xl desktop:mb-20"
 	>
 		Feedbacks
 	</h1>
