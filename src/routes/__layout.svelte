@@ -7,6 +7,7 @@
 	import favicon from '../assets/favicon.ico';
 	import Tecs from '../components/Tecs.svelte';
 	import Branding from '../components/Branding.svelte';
+import Me from '../components/Me.svelte';
 </script>
 
 <svelte:head>
@@ -15,14 +16,15 @@
 	<link rel="shortcut icon" href={favicon} type="image/x-icon" />
 </svelte:head>
 
+<Nav />
 <div class="py-8 px-2 relative flex flex-col gap-32 desktop:gap-40 overflow-y-scroll">
 	<div
 		class="bg-[url('./assets/bg-binary.jpg')] bg-no-repeat bg-cover min-h-screen -z-10 absolute opacity-[.05] w-full top-0 left-0 h-full"
 	/>
-	<Nav />
 	<Header />
 	<Benefits />
 	<Tecs />
 	<Feedbacks />
 	<Branding />
+	<Me />
 </div>

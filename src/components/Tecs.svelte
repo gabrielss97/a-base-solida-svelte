@@ -21,7 +21,7 @@
 			<h3>HTML 5</h3>
 			<p>
 				Aprenda a organizar o conteúdo do seu site com o HTML. Você aprenderá a criar Sections,
-				formulários, tocar vídeos, trazer imagens e muito mais.
+				formulários, reproduzir vídeos, trazer imagens e muito mais.
 			</p>
 		</div>
 		<div class="flex flex-col gap-4 desktop:border-r-2 desktop:border-[#bec9d3] desktop:border-dashed desktop:pr-4 max-w-2xl laptop:border-[#bec9d3] laptop:border-dashed laptop:pr-4 laptop:border-r-2">

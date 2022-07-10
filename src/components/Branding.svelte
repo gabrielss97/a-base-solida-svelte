@@ -19,7 +19,7 @@ export let buttonText = 'INSCREVA-SE AGORA MESMO';
 			class="flex flex-col items-center gap-4 desktop:border-r-2 desktop:border-cgolden desktop:border-dashed desktop:pr-4 tablet:border-cgolden laptop:border-dashed tablet:border-r-2  tablet:border-none"
 		>
 			<img src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
-			<h3 class="text-cgolden p-1 rounded self-start min-w-[150px] shadow-md">Github</h3>
+			<h3 class="text-cgolden p-1 rounded self-start border-b-2">Github</h3>
 			<p class="desktop:pr-28 tablet:pr-12">
 				Aprenda a como utilizar o <b>Github</b> para guardar online todos os seus projetos, mas o mais importante, aprenda a construir um <b> bom portfólio</b> na plataforma, esse será um dos principais diferenciais na busca por emprego.
 			</p>
@@ -28,7 +28,7 @@ export let buttonText = 'INSCREVA-SE AGORA MESMO';
 			class="flex flex-col gap-4"
 		>
 			<img src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
-			<h3 class=" text-cgolden p-1 rounded self-start min-w-[150px] shadow-md">Linkedin</h3>
+			<h3 class=" text-cgolden p-1 rounded self-start border-b-2">Linkedin</h3>
 			<p class="desktop:pr-28 tablet:pr-12">
 				Descubra os segredos de como fazer um ótimo perfil no <b>Linkedin</b>, nada de teoria e mentalidade, aqui vou te explicar as ações e palavras-chave <b>práticas</b> para conseguir o emprego que você merece.
 			</p>
