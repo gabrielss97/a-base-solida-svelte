@@ -46,7 +46,7 @@
 
     @keyframes alturaResp {
         from {
-            transform: translateY(-100px);
+            transform: translateY(-30px);
         }
         to {
             transform: translateY(0px);
