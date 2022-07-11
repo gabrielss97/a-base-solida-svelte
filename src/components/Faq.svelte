@@ -40,8 +40,8 @@
 	];
 </script>
 
-<div id="faq" class="px-2">
-	<h1 class="font-bold text-2xl text-center mb-8 shadow-md p-2">FAQ - PERGUNTAS FREQUENTES</h1>
+<div id="faq" class="px-2 mb-16">
+	<h1 class="font-bold text-2xl text-center mb-8 p-2">FAQ - PERGUNTAS FREQUENTES</h1>
 	{#each faqs as faq}
 		<FaqItem pergunta={faq.pergunta} resposta={faq.resposta} />
 	{/each}

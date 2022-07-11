@@ -7,8 +7,9 @@
 	import favicon from '../assets/favicon.ico';
 	import Tecs from '../components/Tecs.svelte';
 	import Branding from '../components/Branding.svelte';
-import Me from '../components/Me.svelte';
-import Faq from '../components/Faq.svelte';
+	import Me from '../components/Me.svelte';
+	import Faq from '../components/Faq.svelte';
+	import Footer from '../components/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -28,5 +29,6 @@ import Faq from '../components/Faq.svelte';
 	<Feedbacks />
 	<Branding />
 	<Me />
-	<Faq/>
+	<Faq />
 </div>
+<Footer />
