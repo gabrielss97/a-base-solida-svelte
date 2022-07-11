@@ -1,6 +1,4 @@
 <div class="w-full flex justify-center gap-10 flex-wrap desktop:px-40">
-	<!-- <img src={beneficiosSm} alt="beneficios" class="px-4 laptop:hidden" />
-	<img src={beneficios} alt="" class="hidden px-10 laptop:block laptop:w-[70vw] desktop:w-3/4" /> -->
 	<div class="flex flex-col items-center gap-4">
 		<i class="fa-4x fa-solid fa-infinity text-cyellow"></i>
 		<p class="text-cwhite font-semibold text-center text-xl">Acesso <br> Vitalício</p>
