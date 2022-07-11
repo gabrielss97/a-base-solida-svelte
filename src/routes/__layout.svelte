@@ -8,6 +8,7 @@
 	import Tecs from '../components/Tecs.svelte';
 	import Branding from '../components/Branding.svelte';
 import Me from '../components/Me.svelte';
+import Faq from '../components/Faq.svelte';
 </script>
 
 <svelte:head>
@@ -27,4 +28,5 @@ import Me from '../components/Me.svelte';
 	<Feedbacks />
 	<Branding />
 	<Me />
+	<Faq/>
 </div>
