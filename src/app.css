@@ -4,6 +4,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+	.benefits-wrapper {
+		@apply flex flex-col items-center gap-4;
+	}
+
+	.benefits-icons {
+		@apply text-cyellow;
+	}
+
+	.benefits-text {
+		@apply text-cwhite font-semibold text-center text-xl;
+	}
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -11,7 +25,7 @@
 	font-family: 'Roboto', sans-serif;
 }
 
-html  {
+html {
 	scroll-behavior: smooth;
 }
 
@@ -20,7 +34,7 @@ html  {
 }
 
 :target {
-	scroll-margin-top: .8rem;
+	scroll-margin-top: 0.8rem;
 }
 
 body {
