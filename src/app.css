@@ -11,6 +11,10 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+.testando {
+	border-radius: 5rem;
+}
+
 html  {
 	scroll-behavior: smooth;
 }
