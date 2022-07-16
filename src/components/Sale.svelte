@@ -3,7 +3,7 @@
 	import DevGirl from '../assets/dev-girl.jpg';
 </script>
 
-<div class="flex flex-col items-center">
+<div class="flex flex-col items-center" id="investimento">
 	<h1
 		class="text-4xl text-center font-bold uppercase bg-cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 desktop:text-6xl desktop:mb-10"
 	>
