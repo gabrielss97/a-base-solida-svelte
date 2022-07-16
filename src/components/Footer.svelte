@@ -14,6 +14,7 @@
 			<li class="hover:text-cwhite"><a href="#feedbacks">Feedbacks</a></li>
 			<li class="hover:text-cwhite"><a href="#job">Mercado de Trabalho</a></li>
 			<li class="hover:text-cwhite"><a href="#iam">Quem sou eu</a></li>
+			<li class="hover:text-cwhite"><a href="#investimento">Investimento</a></li>
 			<li class="hover:text-cwhite"><a href="#faq">FAQ</a></li>
 		</ul>
 	</div>
