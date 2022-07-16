@@ -14,7 +14,7 @@
 </script>
 
 <svelte:head>
-	<title>A Base Sólida</title>
+	<title>Bootcamp Frontbase</title>
 	<script defer src="https://kit.fontawesome.com/6fffeb3d5e.js" crossorigin="anonymous"></script>
 	<link rel="shortcut icon" href={favicon} type="image/x-icon" />
 </svelte:head>
