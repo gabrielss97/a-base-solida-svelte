@@ -10,6 +10,7 @@
 	import Me from '../components/Me.svelte';
 	import Faq from '../components/Faq.svelte';
 	import Footer from '../components/Footer.svelte';
+import Sale from '../components/Sale.svelte';
 </script>
 
 <svelte:head>
@@ -29,6 +30,7 @@
 	<Feedbacks />
 	<Branding />
 	<Me />
+	<Sale />
 	<Faq />
 </div>
 <Footer />

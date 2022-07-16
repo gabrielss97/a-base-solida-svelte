@@ -2,7 +2,7 @@
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
 	export let borderColor = 'border-cyellow'
 	export let href =
-		'https://api.whatsapp.com/send?phone=5521999057567&text=Ol%C3%A1%20Gabriel%2C%20quero%20saber%20mais%20sobre%20o%20Bootcamp%20Frontbase';
+		'https://pay.hotmart.com/G70568619V?bid=1657111023469';
 </script>
 
 <button
