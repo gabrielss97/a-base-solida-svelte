@@ -8,7 +8,7 @@
 	
 	<div class="flex flex-col gap-8 tablet:flex-row desktop:gap-20 laptop:gap-4 tablet:justify-between desktop:px-40 items-center w-[90vw]">
         <img src={logo} alt="logo" class="w-12 rounded" />
-        <p class="text-cgray text-center order-1">Termos de Uso e Política de Privacidade</p>
+        
 		<ul class="hidden laptop:flex text-cgray gap-5 desktop:pl-48">
 			<li class="hover:text-cwhite"><a href="#tecs">O que você vai aprender?</a></li>
 			<li class="hover:text-cwhite"><a href="#feedbacks">Feedbacks</a></li>

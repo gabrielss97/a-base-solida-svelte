@@ -1,5 +1,7 @@
 <script>
     import logo from '../assets/logo.png'
+
+    
 </script>
 
 <nav class="flex justify-center items-center tablet:justify-between px-12 desktop:px-40 bg-[#2A2B2F] py-8">

@@ -1,5 +1,4 @@
 <script>
-	import { fade } from 'svelte/transition';
 	export let pergunta;
 	export let resposta;
 	export let active = false;
