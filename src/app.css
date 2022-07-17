@@ -34,7 +34,7 @@ html {
 }
 
 :target {
-	scroll-margin-top: 0.8rem;
+	/* scroll-margin-top: 0.8rem; */
 }
 
 body {
