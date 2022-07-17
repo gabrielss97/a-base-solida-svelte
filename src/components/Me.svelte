@@ -1,15 +1,16 @@
 <script>
 	import fotoPerfil from '../assets/foto-eu.webp';
+	import lazyimage from '../lazyimage'
 </script>
 
-<div id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16">
+<div id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16 laptop:p-8">
 	<div class="desktop:w-2/3">
 		<h1
 			class="text-4xl font-bold uppercase text-cblack px-8 py-8 rounded desktop:text-6xl desktop:mb-10 text-center desktop:text-left laptop:text-left"
 		>
 			QUEM É GABRIEL SALVADOR?
 		</h1>
-		<p class="text-cblack px-8 font-normal text-xl desktop:pr-[9rem] laptop:max-w-4xl desktop:text-2xl text-justify">
+		<p class="text-cblack px-8 font-normal text-xl desktop:pr-[9rem] laptop:max-w-4xl desktop:text-2xl">
 			Engenheiro de Software, Professor e Empreendedor, atualmente primeiro no ranking no <b
 				>Superprof</b
 			>
@@ -20,7 +21,7 @@
 		</p>
 	</div>
 
-	<img src={fotoPerfil} alt="foto-perfil" class="w-full tablet:w-2/3 desktop:w-[50%] desktop:border-8 border-cblack  rounded laptop:max-w-xl" />
+	<img use:lazyimage data-src={fotoPerfil} alt="foto-perfil" class="w-full tablet:w-2/3 desktop:w-[50%] laptop:border-8 laptop:border-cblack desktop:border-8 border-cblack  rounded laptop:max-w-xl" />
 </div>
 
 <style>

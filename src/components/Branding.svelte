@@ -1,9 +1,8 @@
 <script>
+	import lazyimage from '../lazyimage'
 	import gitLogo from '../assets/github-logo.png';
 	import linkedinLogo from '../assets/linkedin-logo.png';
-
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
-	export let borderColor = 'border-cgolden';
 	export let href =
 		'https://pay.hotmart.com/G70568619V?bid=1657111023469';
 </script>
@@ -20,7 +19,7 @@
 		<div
 			class="flex flex-col items-center gap-4 desktop:border-r-2 desktop:border-cgolden desktop:border-dashed desktop:pr-4 tablet:border-cgolden laptop:border-dashed tablet:border-r-2  tablet:border-none"
 		>
-			<img src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
+			<img use:lazyimage data-src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
 			<h3
 				class="text-cyellow p-1 
 			
@@ -28,16 +27,16 @@
 			>
 				Github
 			</h3>
-			<p class="desktop:pr-28 tablet:pr-12 text-justify">
+			<p class="desktop:pr-28 tablet:pr-12 px-2 text-justify">
 				Aprenda a como utilizar o <b>Github</b> para guardar online todos os seus projetos, mas o
 				mais importante, aprenda a construir um <b> bom portfólio</b> na plataforma, esse será um dos
 				principais diferenciais na busca por emprego.
 			</p>
 		</div>
 		<div class="flex flex-col gap-4">
-			<img src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
+			<img use:lazyimage data-src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
 			<h3 class=" text-cyellow p-1 self-start border-b-2">Linkedin</h3>
-			<p class="desktop:pr-28 tablet:pr-12 text-justify">
+			<p class="desktop:pr-28 tablet:pr-12 px-2 text-justify">
 				Descubra os segredos de como fazer um ótimo perfil no <b>Linkedin</b>, nada de teoria e
 				mentalidade, aqui vou te explicar as ações e palavras-chave <b>práticas</b> para conseguir o
 				emprego que você merece.
