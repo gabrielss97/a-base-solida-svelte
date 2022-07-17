@@ -17,11 +17,17 @@
 	<title>Bootcamp Frontbase</title>
 	<script defer src="https://kit.fontawesome.com/6fffeb3d5e.js" crossorigin="anonymous"></script>
 	<link rel="shortcut icon" href={favicon} type="image/x-icon" />
+	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
 	<meta name="description" content="O Bootcamp mais completo para qualquer iniciante virar um Dev Front-end.">
 	<meta name="author" content="Gabriel Soares Salvador">
 	<meta name="keywords" content="HTML, CSS, Javascript, Sass, API, Bootstrap, React, Bootcamp, Frontbase, Front-end, Gabriel Salvador, Professor Gabriel, programação, front-end developer, desenvolvedor, developer">
 	<meta name="robots" content="index, follow">
 </svelte:head>
+
+<a href="https://wa.me/5521999057567?text=Tenho duvidas sobre o bootcamp Frontbase!" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+  z-index:1000;" target="_blank">
+<i style="margin-top:16px" class="fa fa-whatsapp"></i>
+</a>
 
 <Nav />
 <div class="py-8 px-2 relative flex flex-col gap-32 desktop:gap-40 overflow-y-scroll">
