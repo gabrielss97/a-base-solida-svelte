@@ -1,12 +1,13 @@
-<script>
+<script defer>
 	import MainButton from './MainButton.svelte';
+	const mainVideo = 'https://www.youtube.com/embed/SNIA34onQCk'
 </script>
 
 <header class="flex flex-col gap-8 items-center laptop:pl-4 desktop:px-40">
 	<div class="flex flex-col gap-8 laptop:flex-row desktop:h-[450px]">
 		<iframe
 			class="w-full h-72 tablet:px-10 laptop:flex-1 laptop:px-0 desktop:h-full rounded"
-			src="https://www.youtube.com/embed/ewVtyCzjrIg"
+			src={mainVideo}
 			title="Como criar um simples projeto para portfólio! | Gabriel Salvador"
 			frameborder="0"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
