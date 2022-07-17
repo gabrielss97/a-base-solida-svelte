@@ -17,6 +17,10 @@
 	<title>Bootcamp Frontbase</title>
 	<script defer src="https://kit.fontawesome.com/6fffeb3d5e.js" crossorigin="anonymous"></script>
 	<link rel="shortcut icon" href={favicon} type="image/x-icon" />
+	<meta name="description" content="O Bootcamp mais completo para qualquer iniciante virar um Dev Front-end.">
+	<meta name="author" content="Gabriel Soares Salvador">
+	<meta name="keywords" content="HTML, CSS, Javascript, Sass, API, Bootstrap, React, Bootcamp, Frontbase, Front-end, Gabriel Salvador, Professor Gabriel, programação, front-end developer, desenvolvedor, developer">
+	<meta name="robots" content="index, follow">
 </svelte:head>
 
 <Nav />

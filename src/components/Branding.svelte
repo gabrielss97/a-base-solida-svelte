@@ -7,7 +7,7 @@
 		'https://pay.hotmart.com/G70568619V?bid=1657111023469';
 </script>
 
-<div class="flex flex-col items-center" id="job">
+<section class="flex flex-col items-center" id="job">
 	<h1
 		class="text-4xl text-center font-bold uppercase bg-cyellow text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
 	>
@@ -47,7 +47,7 @@
 		class=" hover:border-cgolden hover:bg-cgolden tablet:block rounded py-2 px-5 text-cblack bg-cyellow border-2 border-cyellow font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
 		><a target="_blank" {href}>{buttonText}</a>
 	</button>
-</div>
+</section>
 
 <style>
 	.auto-fit {

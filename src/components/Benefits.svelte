@@ -1,4 +1,4 @@
-<div class="w-full flex justify-center gap-10 flex-wrap desktop:px-40">
+<section class="w-full flex justify-center gap-10 flex-wrap desktop:px-40">
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-infinity text-cyellow" />
 		<p class="benefits-text">Acesso <br /> Vitalício</p>
@@ -27,4 +27,4 @@
 		<i class="fa-3x fa-solid fa-record-vinyl text-cyellow" />
 		<p class="benefits-text ">Todas as <br /> aulas ao-vivo</p>
 	</div>
-</div>
+</section>

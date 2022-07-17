@@ -8,7 +8,7 @@
 	import lazyimage from '../lazyimage';
 </script>
 
-<div class="flex flex-col items-center" id="investimento">
+<section class="flex flex-col items-center" id="investimento">
 	<h1
 		class="text-4xl text-center font-bold uppercase bg-[#00DFC0] cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 desktop:text-6xl desktop:mb-10"
 	>
@@ -40,7 +40,7 @@
 			><a target="_blank" {href}>{buttonText}</a></button
 		>
 	</div>
-</div>
+</section>
 
 <style>
 	p {

@@ -9,7 +9,7 @@
 	}
 </script>
 
-<div class="cursor-pointer mb-4 rounded  font-semibold laptop:px-40 desktop:px-60">
+<section class="cursor-pointer mb-4 rounded  font-semibold laptop:px-40 desktop:px-60">
 	<div class="flex items-center bg-[#e5e4db] rounded-t relative z-10" on:click={toggleActive}>
 		<h1 class={`p-4 text-cblack flex-1 ${active ? 'active' : ''}`} >
 			{pergunta}
@@ -23,7 +23,7 @@
 	<div class={`${active ? 'appear' : 'hidden h-0'} p-4 rounded-b-sm bg-[#2a2a2d] text-[#dbe1e7]`}>
 		<p>{resposta}</p>
 	</div>
-</div>
+</section>
 
 <style>
 	.active {

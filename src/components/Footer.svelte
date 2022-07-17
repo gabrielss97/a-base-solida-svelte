@@ -2,7 +2,7 @@
 	import logo from '../assets/logo.png';
 </script>
 
-<nav
+<footer
 	class="flex flex-col justify-center gap-4 items-center py-4 px-4 tablet:justify-between desktop:px-40 bg-[#171719]"
 >
 	
@@ -20,4 +20,4 @@
 	</div>
     
     <p class="text-cgray text-center">© 2022 feito por mim mesmo ❤️.</p>
-</nav>
+</footer>

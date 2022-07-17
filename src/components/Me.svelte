@@ -3,7 +3,7 @@
 	import lazyimage from '../lazyimage'
 </script>
 
-<div id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16 laptop:p-8">
+<section id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16 laptop:p-8">
 	<div class="desktop:w-2/3">
 		<h1
 			class="text-4xl font-bold uppercase text-cblack px-8 py-8 rounded desktop:text-6xl desktop:mb-10 text-center desktop:text-left laptop:text-left"
@@ -22,7 +22,7 @@
 	</div>
 
 	<img use:lazyimage data-src={fotoPerfil} alt="foto-perfil" class="w-full tablet:w-2/3 desktop:w-[50%] laptop:border-8 laptop:border-cblack desktop:border-8 border-cblack  rounded laptop:max-w-xl" />
-</div>
+</section>
 
 <style>
 	.gradient {

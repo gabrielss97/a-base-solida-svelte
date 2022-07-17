@@ -11,7 +11,7 @@
 	import lazyimage from '../lazyimage'
 </script>
 
-<div class="flex flex-col justify-center items-center" id="tecs">
+<section class="flex flex-col justify-center items-center" id="tecs">
 	<h1
 		class="text-4xl text-center font-bold uppercase bg-cyellow text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
 	>
@@ -78,7 +78,7 @@
 			</p>
 		</div>
 	</div>
-</div>
+</section>
 
 <style>
 	img {
