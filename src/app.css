@@ -14,7 +14,7 @@
 	}
 
 	.benefits-text {
-		@apply text-cwhite font-semibold text-center text-xl;
+		@apply text-cwhite text-center text-xl;
 	}
 }
 
