@@ -12,7 +12,7 @@
 		Feedbacks
 	</h1>
 	<p
-		class="leading-10 text-justify text-2xl mb-4 tablet:leading-10 tablet:px-16 laptop:px-20 laptop:mb-8 laptop:text-center laptop:leading-10 desktop:px-32 desktop:mb-4 desktop:leading-10 "
+		class="leading-10 text-justify px-2 text-2xl mb-4 tablet:leading-10 tablet:px-16 laptop:px-20 laptop:mb-8 laptop:text-center laptop:leading-10 desktop:px-32 desktop:mb-4 desktop:leading-10 "
 	>
 		Bem essa é uma seção <b>polêmica</b>, sabemos que muitos sites e cursos por aí tem feedbacks
 		genéricos e até muitas vezes falsos, então dessa vez eu vou fazer diferente. Você vai clicar no
