@@ -3,7 +3,7 @@
 	const mainVideo = 'https://www.youtube.com/embed/SNIA34onQCk'
 </script>
 
-<header class="flex flex-col gap-8 items-center laptop:pl-4 desktop:px-40">
+<header id="header" class="flex flex-col gap-8 items-center laptop:pl-4 desktop:px-40">
 	<div class="flex flex-col gap-8 laptop:flex-row desktop:h-[450px]">
 		<iframe defer
 			class="w-full h-72 tablet:px-10 laptop:flex-1 laptop:px-0 desktop:h-full rounded"
