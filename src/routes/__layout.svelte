@@ -11,6 +11,7 @@
 	import Faq from '../components/Faq.svelte';
 	import Footer from '../components/Footer.svelte';
 	import Sale from '../components/Sale.svelte';
+import Doubt from '../components/Doubt.svelte';
 </script>
 
 <svelte:head>
@@ -43,5 +44,6 @@
 	<Me />
 	<Sale />
 	<Faq />
+	<Doubt />
 </div>
 <Footer />

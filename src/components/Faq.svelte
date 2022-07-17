@@ -40,9 +40,11 @@
 	];
 </script>
 
-<section id="faq" class="px-2 mb-16">
-	<h1 class="font-bold text-2xl text-center mb-8 p-2">FAQ - PERGUNTAS FREQUENTES</h1>
+<section id="faq" class="px-2 mb-16 flex flex-col items-center">
+	<h1 class="text-4xl pt-2 text-center font-bold uppercase bg-cyellow cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 desktop:text-6xl desktop:mb-10">FAQ - PERGUNTAS FREQUENTES</h1>
+	<div class="w-[80vw]">
 	{#each faqs as faq}
 		<FaqItem pergunta={faq.pergunta} resposta={faq.resposta} />
 	{/each}
+</div>
 </section>

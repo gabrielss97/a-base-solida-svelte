@@ -13,7 +13,7 @@
 
 <section class="flex flex-col justify-center items-center" id="tecs">
 	<h1
-		class="text-4xl text-center font-bold uppercase bg-cyellow text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
+		class="text-4xl pt-2 text-center font-bold uppercase bg-cyellow text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
 	>
 		O QUE VOCÊ VAI APRENDER?
 	</h1>
