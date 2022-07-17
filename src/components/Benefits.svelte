@@ -21,7 +21,7 @@
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-people-group text-cyellow" />
-		<p class="benefits-text">+ de 300 <br /> alunos(as)</p>
+		<p class="benefits-text">+ de 1000 <br /> alunos(as)</p>
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-record-vinyl text-cyellow" />
