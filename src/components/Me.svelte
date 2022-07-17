@@ -1,5 +1,5 @@
 <script>
-	import fotoPerfil from '../assets/foto-eu.png';
+	import fotoPerfil from '../assets/foto-eu.webp';
 </script>
 
 <div id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16">

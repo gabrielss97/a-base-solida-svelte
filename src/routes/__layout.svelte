@@ -22,7 +22,7 @@
 <Nav />
 <div class="py-8 px-2 relative flex flex-col gap-32 desktop:gap-40 overflow-y-scroll">
 	<div
-		class="bg-[url('./assets/bg-binary.jpg')] bg-no-repeat bg-cover min-h-screen -z-10 absolute opacity-[.02] w-full top-0 left-0 h-full"
+		class="bg-[url('./assets/bg-binary.webp')] bg-no-repeat bg-cover min-h-screen -z-10 absolute opacity-[.02] w-full top-0 left-0 h-full"
 	/>
 	<Header />
 	<Benefits />
