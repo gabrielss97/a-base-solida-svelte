@@ -19,5 +19,5 @@
 		</ul>
 	</div>
     
-    <p class="text-cgray text-center">© 2022 feito por mim mesmo ❤️.</p>
+    <p class="text-cgray text-center py-4">Criado com ❤️ por Gabriel Salvador © 2022</p>
 </footer>
