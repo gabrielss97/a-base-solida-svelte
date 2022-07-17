@@ -9,7 +9,7 @@
 		>
 			QUEM É GABRIEL SALVADOR?
 		</h1>
-		<p class="text-cblack px-8 font-normal text-xl desktop:pr-[9rem] laptop:max-w-4xl desktop:text-2xl">
+		<p class="text-cblack px-8 font-normal text-xl desktop:pr-[9rem] laptop:max-w-4xl desktop:text-2xl text-justify">
 			Engenheiro de Software, Professor e Empreendedor, atualmente primeiro no ranking no <b
 				>Superprof</b
 			>

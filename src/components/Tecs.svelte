@@ -95,6 +95,7 @@
 		font-size: 20px;
 		line-height: 34px;
         color: #bec9d3;
+		text-align: justify;
 	}
 
     .auto-fit {

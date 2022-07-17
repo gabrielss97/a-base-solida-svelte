@@ -36,7 +36,7 @@
 	</div>
 	<div class="mt-10 flex justify-center min-w-full">
 		<button
-	class=" hover:text-cblack hover:bg-[#00DFC0] tablet:block rounded-2xl py-2 px-5 text-cwhite {borderColor} border-2 font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
+	class=" hover:bg-[#00bca3] hover:border-[#00bca3] text-cblack bg-[#00DFC0] tablet:block rounded py-2 px-5 {borderColor} border-2 font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
 	><a target="_blank" {href}>{buttonText}</a></button
 >
 	</div>

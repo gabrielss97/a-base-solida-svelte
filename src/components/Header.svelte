@@ -19,7 +19,7 @@
 			<h1 class="font-bold w-full text-4xl uppercase text-left mb-5 desktop:text-6xl">
 				Bootcamp <br /> <span class=" rounded bg-cyellow text-cblack px-2">FrontBase</span>
 			</h1>
-			<p class="text-xl desktop:text-3xl desktop:leading-10">
+			<p class="text-xl desktop:text-3xl desktop:leading-10 text-justify">
 				Pare de travar na hora de começar seu <b>próprio projeto do zero</b>, torne-se um
 				programador que não só copia código mas que entenda de verdade a linguagem
 				<span class="text-cyellow  font-bold">JavaScript</span>, obtenha uma <b>base sólida</b> para

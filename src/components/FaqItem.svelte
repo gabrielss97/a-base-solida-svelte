@@ -10,7 +10,7 @@
 </script>
 
 <div class="cursor-pointer mb-4 rounded  font-semibold laptop:px-40 desktop:px-60">
-	<div class="flex items-center bg-[#e5e4db] rounded relative z-10" on:click={toggleActive}>
+	<div class="flex items-center bg-[#e5e4db] rounded-t relative z-10" on:click={toggleActive}>
 		<h1 class={`p-4 text-cblack flex-1 ${active ? 'active' : ''}`} >
 			{pergunta}
 		</h1>

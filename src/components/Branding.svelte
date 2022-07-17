@@ -10,7 +10,7 @@
 
 <div class="flex flex-col items-center" id="job">
 	<h1
-		class="text-4xl text-center font-bold uppercase bg-cgolden text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
+		class="text-4xl text-center font-bold uppercase bg-cyellow text-cblack mb-12 px-2 rounded desktop:text-6xl desktop:mb-20"
 	>
 		MERCADO DE TRABALHO
 	</h1>
@@ -22,13 +22,13 @@
 		>
 			<img src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
 			<h3
-				class="text-cgolden p-1 
+				class="text-cyellow p-1 
 			
 			self-start border-b-2"
 			>
 				Github
 			</h3>
-			<p class="desktop:pr-28 tablet:pr-12">
+			<p class="desktop:pr-28 tablet:pr-12 text-justify">
 				Aprenda a como utilizar o <b>Github</b> para guardar online todos os seus projetos, mas o
 				mais importante, aprenda a construir um <b> bom portfólio</b> na plataforma, esse será um dos
 				principais diferenciais na busca por emprego.
@@ -36,8 +36,8 @@
 		</div>
 		<div class="flex flex-col gap-4">
 			<img src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
-			<h3 class=" text-cgolden p-1 self-start border-b-2">Linkedin</h3>
-			<p class="desktop:pr-28 tablet:pr-12">
+			<h3 class=" text-cyellow p-1 self-start border-b-2">Linkedin</h3>
+			<p class="desktop:pr-28 tablet:pr-12 text-justify">
 				Descubra os segredos de como fazer um ótimo perfil no <b>Linkedin</b>, nada de teoria e
 				mentalidade, aqui vou te explicar as ações e palavras-chave <b>práticas</b> para conseguir o
 				emprego que você merece.
@@ -45,7 +45,7 @@
 		</div>
 	</div>
 	<button
-		class=" hover:text-cblack hover:bg-cgolden tablet:block rounded-2xl py-2 px-5 text-cwhite {borderColor} border-2 font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
+		class=" hover:border-cgolden hover:bg-cgolden tablet:block rounded py-2 px-5 text-cblack bg-cyellow border-2 border-cyellow font-bold text-center desktop:w-1/4 desktop:text-2xl desktop:mt-4 desktop:border-4 laptop:text-2xl laptop:px-16 desktop:px-5"
 		><a target="_blank" {href}>{buttonText}</a>
 	</button>
 </div>
