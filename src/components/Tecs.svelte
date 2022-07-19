@@ -7,6 +7,7 @@
 	import apiLogo from '../assets/api-logo.png';
 	import reactLogo from '../assets/react-logo.png';
 	import bootLogo from '../assets/bootstrap-logo.png';
+	import npmLogo from '../assets/npm-logo.webp';
 
 	import lazyimage from '../lazyimage'
 </script>
@@ -75,6 +76,13 @@
 			<h3>REACT</h3>
 			<p>
 				Entenda o que é um framework JavaScript, domine a criação de aplicativos web com o React. Desde aplicações simples às mais complexas com usos de Rotas protegidas e muito mais.
+			</p>
+		</div>
+		<div class="flex flex-col gap-4 desktop:pr-4 max-w-2xl laptop:pr-4 tablet:border-[#bec9d3] tablet:border-dashed tablet:border-r-2 desktop:border-none">
+			<img use:lazyimage data-src={npmLogo} alt="" />
+			<h3>NPM</h3>
+			<p>
+				Aprenda a utilizar o gerenciador de pacotes Node da melhor forma possivel, como importar e exporta modulos, instalar dependencias, abrir servidores e muito mais...
 			</p>
 		</div>
 	</div>
