@@ -12,6 +12,7 @@
 	import Footer from '../components/Footer.svelte';
 	import Sale from '../components/Sale.svelte';
 import Doubt from '../components/Doubt.svelte';
+import Depositions from '../components/Depositions.svelte';
 </script>
 
 <svelte:head>
@@ -39,6 +40,7 @@ import Doubt from '../components/Doubt.svelte';
 	<Benefits />
 	<Tecs />
 	<Feedbacks />
+	<Depositions/>
 	<Branding />
 
 	<Me />
