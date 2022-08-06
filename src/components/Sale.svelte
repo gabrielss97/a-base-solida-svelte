@@ -15,7 +15,7 @@
 		Investimento
 	</h1>
 	<div class="flex flex-col items-center laptop:flex-row laptop:px-4 laptop:justify-center">
-		<img use:lazyimage data-src={DevGirl} alt="" class="max-w-[90vw] rounded mb-4 laptop:max-w-[30%]" />
+		<img src={DevGirl} alt="" class="max-w-[90vw] rounded mb-4 laptop:max-w-[30%]" />
 		<div class="flex flex-col justify-center">
 			<p class="mb-10 text-xl tablet:mx-10 laptop:text-2xl max-w-lg desktop:text-3xl">
 				Priorize sua <span class="text-[#00DFC0]">carreira</span>, investir no seu futuro vai sair

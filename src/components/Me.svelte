@@ -21,7 +21,7 @@
 		</p>
 	</div>
 
-	<img use:lazyimage data-src={fotoPerfil} alt="foto-perfil" class="w-full tablet:w-2/3 desktop:w-[50%] laptop:border-8 laptop:border-cblack desktop:border-8 border-cblack  rounded laptop:max-w-xl" />
+	<img src={fotoPerfil} alt="foto-perfil" class="w-full tablet:w-2/3 desktop:w-[50%] laptop:border-8 laptop:border-cblack desktop:border-8 border-cblack  rounded laptop:max-w-xl" />
 </section>
 
 <style>

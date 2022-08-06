@@ -19,7 +19,7 @@
 		<div
 			class="flex flex-col items-center gap-4 desktop:border-r-2 desktop:border-cgolden desktop:border-dashed desktop:pr-4 tablet:border-cgolden laptop:border-dashed tablet:border-r-2  tablet:border-none"
 		>
-			<img use:lazyimage data-src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
+			<img src={gitLogo} alt="" class="max-w-[100px] self-start bg-cwhite p-2 rounded shadow-md" />
 			<h3
 				class="text-cyellow p-1 
 			
@@ -34,7 +34,7 @@
 			</p>
 		</div>
 		<div class="flex flex-col gap-4">
-			<img use:lazyimage data-src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
+			<img src={linkedinLogo} alt="" class="max-w-[100px] bg-cwhite p-2 rounded shadow-md" />
 			<h3 class=" text-cyellow p-1 self-start border-b-2">Linkedin</h3>
 			<p class="desktop:pr-28 tablet:pr-12 px-2 text-justify">
 				Descubra os segredos de como fazer um ótimo perfil no <b>Linkedin</b>, nada de teoria e
