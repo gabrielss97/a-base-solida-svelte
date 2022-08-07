@@ -1,6 +1,6 @@
 <script defer>
 	import MainButton from './MainButton.svelte';
-	const mainVideo = 'https://www.youtube.com/embed/SNIA34onQCk'
+	const mainVideo = 'https://www.youtube.com/embed/Brxxh3_XWcc'
 </script>
 
 <header id="header" class="flex flex-col gap-8 items-center laptop:pl-4 laptop:mx-32 desktop:px-40">
