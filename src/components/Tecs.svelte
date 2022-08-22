@@ -9,7 +9,6 @@
 	import bootLogo from '../assets/bootstrap-logo.png';
 	import npmLogo from '../assets/npm-logo.webp';
 
-	import lazyimage from '../lazyimage'
 </script>
 
 <section class="flex flex-col justify-center items-center" id="tecs">

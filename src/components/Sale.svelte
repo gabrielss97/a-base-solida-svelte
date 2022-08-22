@@ -5,7 +5,6 @@
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
 	export let borderColor = 'border-[#00DFC0]';
 	export let href = 'https://pay.hotmart.com/G70568619V?bid=1657111023469';
-	import lazyimage from '../lazyimage';
 </script>
 
 <section class="flex flex-col items-center" id="investimento">

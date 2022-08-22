@@ -1,6 +1,5 @@
 <script>
     import question from '../assets/question.png'
-    import lazyimage from '../lazyimage';
 </script>
 
 <section class="laptop:px-[5%] desktop:px-[20%] flex flex-col items-center">

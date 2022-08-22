@@ -1,6 +1,5 @@
 <script>
 	import fotoPerfil from '../assets/foto-eu.webp';
-	import lazyimage from '../lazyimage'
 </script>
 
 <section id="iam" class="bg-cgolden flex flex-col items-center laptop:flex-row desktop:px-60 gradient desktop:p-16 laptop:p-8">

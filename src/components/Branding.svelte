@@ -1,5 +1,4 @@
 <script>
-	import lazyimage from '../lazyimage'
 	import gitLogo from '../assets/github-logo.png';
 	import linkedinLogo from '../assets/linkedin-logo.png';
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
