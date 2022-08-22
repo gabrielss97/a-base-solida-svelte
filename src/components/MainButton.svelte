@@ -1,5 +1,5 @@
 <script>
-	export let buttonText = 'INSCREVA-SE AGORA MESMO';
+	export let buttonText = 'INSCREVA-SE AGORA';
 	export let borderColor = 'border-cyellow'
 	export let href =
 		'https://pay.hotmart.com/G70568619V?bid=1657111023469';
