@@ -1,5 +1,5 @@
 <script>
-	import fotoPerfil from '../assets/foto-eu.webp';
+	// import fotoPerfil from '../assets/foto-eu.webp';
 </script>
 
 <section
