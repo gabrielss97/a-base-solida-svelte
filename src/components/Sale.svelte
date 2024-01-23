@@ -4,7 +4,7 @@
 
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
 	export let borderColor = 'border-[#00DFC0]';
-	export let href = 'https://pay.hotmart.com/G70568619V?bid=1657111023469';
+	export let href = 'https://pay.hotmart.com/G70568619V?off=v2nljlof&bid=1705688456930';
 </script>
 
 <section class="flex flex-col items-center" id="investimento">
@@ -24,10 +24,10 @@
 				<span class="leading-6 text-2xl text-[#bec9d3]">12x</span>
 				<span
 					class="leading-[70px] text-7xl font-bold border-b-4 border-[#00DFC0] pb-2 desktop:text-8xl"
-					>116</span
+					>162</span
 				>
 				<div class="flex flex-col gap-2">
-					<span class="leading-[34px] font-bold text-3xl">, 42</span>
+					<span class="leading-[34px] font-bold text-3xl">, 50</span>
 					<span class="text-xl leading-6 text-[#bec9d3]">Sem juros</span>
 				</div>
 			</div>
