@@ -24,6 +24,7 @@
 		<p class="text-cgray text-center py-4">
 			Email: suporte@frontbase.com.br <br />
 			CNPJ: 45.475.703/0001-04 <br />
+			Razão Social: GABRIEL SOARES SALVADOR 12721038702 <br />
 			Rua Wilson Barbosa de Melo, 135 <br />
 			CEP. 49037590 - Atalaia, Aracaju - SE <br />
 			Criado com ❤️ por Gabriel Salvador © 2022
