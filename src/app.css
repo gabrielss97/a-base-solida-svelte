@@ -40,4 +40,5 @@ html {
 body {
 	background-color: #202125;
 	color: #f9faf9;
+	min-height: 100vh;
 }
