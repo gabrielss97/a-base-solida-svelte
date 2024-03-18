@@ -2,8 +2,7 @@
 	import gitLogo from '../assets/github-logo.png';
 	import linkedinLogo from '../assets/linkedin-logo.png';
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
-	export let href =
-		'https://pay.hotmart.com/G70568619V?bid=1657111023469';
+	export let href = 'https://pay.kiwify.com.br/1rBiFT3';
 </script>
 
 <section class="flex flex-col items-center" id="job">
