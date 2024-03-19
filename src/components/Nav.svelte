@@ -10,9 +10,8 @@
 	</a>
 	<div class="flex gap-5 items-center">
 		<ul class="hidden laptop:flex text-cgray gap-5">
-			<li class="hover:text-cwhite"><a href="#tecs">O que você vai aprender?</a></li>
-			<li class="hover:text-cwhite"><a href="#feedbacks">Feedbacks</a></li>
 			<li class="hover:text-cwhite"><a href="#depositions">Depoimentos</a></li>
+			<li class="hover:text-cwhite"><a href="#tecs">O que você vai aprender?</a></li>
 			<li class="hover:text-cwhite"><a href="#job">Mercado de Trabalho</a></li>
 			<li class="hover:text-cwhite"><a href="#iam">Quem sou eu</a></li>
 			<li class="hover:text-cwhite"><a href="#investimento">Investimento</a></li>
