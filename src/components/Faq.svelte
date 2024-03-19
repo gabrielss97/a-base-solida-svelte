@@ -9,8 +9,7 @@
 		},
 		{
 			pergunta: 'POR QUANTO TEMPO TEREI ACESSO AO CURSO?',
-			resposta:
-				'Você terá acesso vitalício à todas aulas gravadas, materiais e exercícios.'
+			resposta: 'Você terá acesso vitalício à todas aulas gravadas, materiais e exercícios.'
 		},
 		{
 			pergunta: 'VOU APRENDER A CRIAR UM SITE COMO ESTE AQUI?',
@@ -20,12 +19,11 @@
 		{
 			pergunta: 'COMO POSSO ACESSAR O CURSO?',
 			resposta:
-				'Com sua compra aprovada pelo Hotmart, eu pessoalmente irei te enviar um link de acesso ao servidor onde faremos nossas aulas e também onde você poderá acessar todo o material.'
+				'Com sua compra aprovada pelo Kwify, na pagina obrigado você receberá o link da comunidade Discord, além disso também recebera um link por e-mail com seu login para area de membros da Kwify, os videos serão postados depois de um dia da aula ao-vivo lá.'
 		},
 		{
 			pergunta: 'TODAS AS AULAS ESTARÃO DISPONÍVEIS NO MOMENTO DA COMPRA?',
-			resposta:
-				'Não. Como nossas aulas são ao-vivo as aulas serão gravadas ao longo do Bootcamp.'
+			resposta: 'Não. Como nossas aulas são ao-vivo as aulas serão gravadas ao longo do Bootcamp.'
 		},
 		{
 			pergunta: 'QUAL A CARGA HORÁRIA DO CURSO?',
@@ -36,15 +34,19 @@
 			pergunta: 'QUAIS AS GARANTIAS DO CURSO?',
 			resposta:
 				'O curso oferece o reembolso integral em até 7 dias, ou seja, você tem sete dias para assistir as aulas da primeira semana e pedir o dinheiro de volta caso não esteja 100% satisfeito.'
-		},
+		}
 	];
 </script>
 
 <section id="faq" class="px-2 mb-16 flex flex-col items-center">
-	<h1 class="text-4xl pt-2 text-center font-bold uppercase bg-cyellow cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 desktop:text-6xl desktop:mb-10">FAQ - PERGUNTAS FREQUENTES</h1>
+	<h1
+		class="text-4xl pt-2 text-center font-bold uppercase bg-cyellow cyellow text-cblack mb-4 px-2 rounded laptop:mb-8 desktop:text-6xl desktop:mb-10"
+	>
+		FAQ - PERGUNTAS FREQUENTES
+	</h1>
 	<div class="w-[80vw]">
-	{#each faqs as faq}
-		<FaqItem pergunta={faq.pergunta} resposta={faq.resposta} />
-	{/each}
-</div>
+		{#each faqs as faq}
+			<FaqItem pergunta={faq.pergunta} resposta={faq.resposta} />
+		{/each}
+	</div>
 </section>
