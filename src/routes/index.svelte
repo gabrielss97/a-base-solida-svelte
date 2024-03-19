@@ -1,4 +1,6 @@
 <script>
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
 	import '../app.css';
 	import Benefits from '../components/Benefits.svelte';
 	import Feedbacks from '../components/Feedbacks.svelte';
@@ -13,6 +15,8 @@
 	import Sale from '../components/Sale.svelte';
 	import Doubt from '../components/Doubt.svelte';
 	import Depositions from '../components/Depositions.svelte';
+
+	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
 <svelte:head>
