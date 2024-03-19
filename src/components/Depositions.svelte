@@ -12,21 +12,44 @@
 		Depoimentos
 	</h1>
 	<div class="flex flex-wrap gap-4 justify-center">
-        <!-- svelte-ignore a11y-media-has-caption -->
-        <video controls class="h-[600px]">
+		<!-- svelte-ignore a11y-media-has-caption -->
+		<!-- <video controls class="h-[600px]">
             <source src={yago} type="video/mp4" />
-        </video>
+        </video> -->
+		<iframe
+			class="h-[600px] max-w-full"
+			src="https://www.youtube.com/embed/jbdjttS_Ax4"
+			title="depoimento yago"
+			frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
 		<!-- svelte-ignore a11y-media-has-caption -->
-		<video controls class="h-[600px]">
-			<source src={silvio} type="video/mp4" />
-		</video>
+		<iframe
+			class="h-[600px] max-w-full"
+			src="https://www.youtube.com/embed/DEQUcq2FMys"
+			title="depoimento silvio 9dafa70f"
+			frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
 		<!-- svelte-ignore a11y-media-has-caption -->
-		<video controls class="h-[600px]">
-			<source src={mayara} type="video/mp4" />
-		</video>
+		<iframe
+			class="h-[600px] max-w-full"
+			src="https://www.youtube.com/embed/YVdMwri7jPs"
+			title="depoimento mayara ac6e38c3"
+			frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
 		<!-- svelte-ignore a11y-media-has-caption -->
-		<video controls class="h-[600px]">
-			<source src={bernardo} type="video/mp4" />
-		</video>
+		<iframe
+			class="h-[600px] max-w-full"
+			src="https://www.youtube.com/embed/ag1dBDX0FhM"
+			title="depoimento bernardo 826b2aca"
+			frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
 	</div>
 </section>
