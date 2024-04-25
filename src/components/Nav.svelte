@@ -19,7 +19,9 @@
 		</ul>
 		<button
 			class="hidden hover:bg-cgolden bg-cyellow hover:border-cgolden text-cblack tablet:block rounded py-2 px-5 border-cyellow border-2 font-bold"
-			><a target="_blank" href="https://pay.kiwify.com.br/1rBiFT3">INSCREVA-SE AGORA</a></button
+			><a target="_blank" href="https://pay.hotmart.com/G70568619V?off=v2nljlof"
+				>INSCREVA-SE AGORA</a
+			></button
 		>
 	</div>
 </nav>

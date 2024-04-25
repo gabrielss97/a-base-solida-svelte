@@ -19,7 +19,7 @@
 		{
 			pergunta: 'COMO POSSO ACESSAR O CURSO?',
 			resposta:
-				'Com sua compra aprovada pelo Kwify, na pagina obrigado você receberá o link da comunidade Discord, além disso também recebera um link por e-mail com seu login para area de membros da Kwify, os videos serão postados depois de um dia da aula ao-vivo lá.'
+				'Com sua compra aprovada pela Hotmart, na pagina obrigado você receberá o link da comunidade Discord, além disso também recebera um link por e-mail com seu login para area de membros da Hotmart, os videos serão postados depois de um dia da aula ao-vivo lá.'
 		},
 		{
 			pergunta: 'TODAS AS AULAS ESTARÃO DISPONÍVEIS NO MOMENTO DA COMPRA?',

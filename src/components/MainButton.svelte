@@ -1,7 +1,7 @@
 <script>
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
 	export let borderColor = 'border-cyellow';
-	export let href = 'https://pay.kiwify.com.br/1rBiFT3';
+	export let href = 'https://pay.hotmart.com/G70568619V?off=v2nljlof';
 </script>
 
 <button

@@ -47,8 +47,8 @@
 				>https://discord.gg/TPm6nEjKG3</a
 			>
 			<br />
-			Instruções: seu login e senha para a área de membros do
-			<span class="text-cgreen">Kiwify</span>
+			Instruções: seu login e senha para a área de membros da
+			<span class="text-cgreen">Hotmart</span>
 			chegará por e-mail, lá você poderá ver todas as aulas gravadas no dia seguinte da aula ao-vivo
 		</p>
 		<p class="text-xl text-center desktop:text-xl desktop:leading-10  px-2 mt-5">
