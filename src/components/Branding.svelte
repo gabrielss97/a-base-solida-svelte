@@ -2,8 +2,7 @@
 	import gitLogo from '../assets/github-logo.png';
 	import linkedinLogo from '../assets/linkedin-logo.png';
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
-	export let href =
-		'https://www.mercadopago.com.br/checkout/v1/payment/redirect/92003108-948c-44b4-85c4-857989c90725/payment-option-form/?source=link&preference-id=282933471-ea9b0b27-162a-4034-b6b6-6e60bda44545&sniffing-rollout=sniffing-api&router-request-id=eb9d1422-4424-4014-9538-eda16e178e05&p=11040522b74b979f8f204e99c61b88f6#/';
+	export let href = 'https://mpago.la/1qKb1MH';
 </script>
 
 <section class="flex flex-col items-center" id="job">
