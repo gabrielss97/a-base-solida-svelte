@@ -29,7 +29,6 @@
 				>
 				<div class="flex flex-col gap-2">
 					<span class="leading-[34px] font-bold text-3xl">, 61</span>
-					<span class="text-xl leading-6 text-[#bec9d3]">Sem juros</span>
 				</div>
 			</div>
 		</div>
