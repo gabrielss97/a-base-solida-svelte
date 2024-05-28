@@ -17,18 +17,14 @@
 				'Sim, vamos ver sites como este e muitos outros. Só por curiosidade, esta página foi feita com Svelte e Tailwind, um framework que talvez você não conheça mas que usa muito do conceito de código puro em HTML, CSS e Javascript para funcionar.'
 		},
 		{
-			pergunta: 'COMO POSSO ACESSAR O CURSO?',
-			resposta:
-				'Com sua compra aprovada pela Hotmart, na pagina obrigado você receberá o link da comunidade Discord, além disso também recebera um link por e-mail com seu login para area de membros da Hotmart, os videos serão postados depois de um dia da aula ao-vivo lá.'
-		},
-		{
 			pergunta: 'TODAS AS AULAS ESTARÃO DISPONÍVEIS NO MOMENTO DA COMPRA?',
-			resposta: 'Não. Como nossas aulas são ao-vivo as aulas serão gravadas ao longo do Bootcamp.'
+			resposta:
+				'Sim. Você receberá aulas gravadas da bootcamps passados para já visualizar o conteudo enquanto as aulas ao-vivo não começarem.'
 		},
 		{
 			pergunta: 'QUAL A CARGA HORÁRIA DO CURSO?',
 			resposta:
-				'Nesse momento o Bootcamp conta com um pouco mais de 30 horas de conteúdo, um total de 6 semanas de aulas ao-vivo.'
+				'Nesse momento o Bootcamp conta com um pouco mais de 24 horas de conteúdo, um total de 4 semanas de aulas ao-vivo.'
 		},
 		{
 			pergunta: 'QUAIS AS GARANTIAS DO CURSO?',

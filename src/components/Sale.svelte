@@ -4,7 +4,8 @@
 
 	export let buttonText = 'INSCREVA-SE AGORA MESMO';
 	export let borderColor = 'border-[#00DFC0]';
-	export let href = 'https://pay.hotmart.com/G70568619V?off=v2nljlof';
+	export let href =
+		'https://www.mercadopago.com.br/checkout/v1/payment/redirect/92003108-948c-44b4-85c4-857989c90725/payment-option-form/?source=link&preference-id=282933471-ea9b0b27-162a-4034-b6b6-6e60bda44545&sniffing-rollout=sniffing-api&router-request-id=eb9d1422-4424-4014-9538-eda16e178e05&p=11040522b74b979f8f204e99c61b88f6#/';
 </script>
 
 <section class="flex flex-col items-center" id="investimento">
@@ -24,10 +25,10 @@
 				<span class="leading-6 text-2xl text-[#bec9d3]">12x</span>
 				<span
 					class="leading-[70px] text-7xl font-bold border-b-4 border-[#00DFC0] pb-2 desktop:text-8xl"
-					>162</span
+					>121</span
 				>
 				<div class="flex flex-col gap-2">
-					<span class="leading-[34px] font-bold text-3xl">, 50</span>
+					<span class="leading-[34px] font-bold text-3xl">, 61</span>
 					<span class="text-xl leading-6 text-[#bec9d3]">Sem juros</span>
 				</div>
 			</div>
