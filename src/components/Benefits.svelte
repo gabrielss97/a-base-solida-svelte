@@ -5,7 +5,7 @@
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-clock text-cyellow" />
-		<p class="benefits-text">+ de 30 horas <br /> de contéudo</p>
+		<p class="benefits-text">24 horas <br /> de contéudo</p>
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-medal text-cyellow" />
@@ -21,7 +21,7 @@
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-people-group text-cyellow" />
-		<p class="benefits-text">+ de 500 <br /> alunos(as)</p>
+		<p class="benefits-text">+ de 200 <br /> alunos(as)</p>
 	</div>
 	<div class="benefits-wrapper">
 		<i class="fa-3x fa-solid fa-record-vinyl text-cyellow" />
